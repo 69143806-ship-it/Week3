@@ -15,7 +15,9 @@
 <img width="352" height="372" alt="Sitemap" src="https://github.com/user-attachments/assets/b7cceb77-c4d8-49ae-8bdf-4c412e05a995" />  
 
 # 3.ออกแบบ Wireframe หน้าแรก บน Desktop
-https://www.figma.com/proto/6IYjGWwcmiXYxd31NYE5Bc/Untitled?node-id=8-3&p=f&t=uRUYdcwAztocZtf4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A3
+<img width="178" height="260" alt="image" src="https://github.com/user-attachments/assets/ce95eb46-a323-4952-a1b8-b66855396b34" />
+
+
 # 4.อธิบายเหตุผลในการเลือกสี การจัดวาง และการออกแบบ
 1. เหตุผลในการเลือกใช้สี
 เลือกใช้โทนสีเขียว ครีม และสีขาว เพราะเป็นสีที่ให้ความรู้สึกอบอุ่น สบายตา และเข้ากับบรรยากาศธรรมชาติของจังหวัดเชียงใหม่
@@ -47,3 +49,4 @@ https://www.figma.com/proto/6IYjGWwcmiXYxd31NYE5Bc/Untitled?node-id=8-3&p=f&t=uR
 5. แบ่งเนื้อหาเป็นหมวดหมู่: ช่วยให้ผู้ใช้งานค้นหาข้อมูลได้ง่ายและรวดเร็ว
 4. สรุปแนวคิดในการออกแบบ
 การออกแบบเว็บไซต์ CHIANG MAI TRAVEL มีแนวคิดในการนำเสนอแหล่งท่องเที่ยวของจังหวัดเชียงใหม่ผ่านสีสันที่สื่อถึงธรรมชาติ การจัดวางองค์ประกอบอย่างเป็นระเบียบ และการใช้ภาพถ่ายที่สวยงาม เพื่อให้เว็บไซต์มีความน่าสนใจ ใช้งานง่าย และช่วยให้ผู้เข้าชมรู้จักสถานที่ท่องเที่ยวต่าง ๆ ในจังหวัดเชียงใหม่มากยิ่งขึ้น
+https://www.figma.com/proto/6IYjGWwcmiXYxd31NYE5Bc/Untitled?node-id=8-3&p=f&t=uRUYdcwAztocZtf4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A3
